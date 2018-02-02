@@ -1,10 +1,10 @@
 # Insight UI
 
-A Litecoin blockchain explorer web application service for [garlicore Node](https://github.com/litecoin-project/garlicore-node) using the [Insight API](https://github.com/litecoin-project/insight-lite-api).
+A Litecoin blockchain explorer web application service for [garlicore Node](https://github.com/garlicoin-project/garlicore-node) using the [Insight API](https://github.com/garlicoin-project/insight-grlc-api).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [garlicore](https://github.com/litecoin-project/garlicore).
+Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [garlicore](https://github.com/garlicoin-project/garlicore).
 
 ## Getting Started
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/litecoin-project/insight-lite-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/litecoin-project/insight-lite-api).
+For more details about the [Insight API](https://github.com/garlicoin-project/insight-lite-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/garlicoin-project/insight-lite-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/litecoin-project/insight-lite-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/garlicoin-project/insight-lite-ui).
 
 
 ## License
