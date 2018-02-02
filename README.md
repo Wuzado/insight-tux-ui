@@ -1,6 +1,6 @@
 # Insight UI
 
-A Litecoin blockchain explorer web application service for [garlicore Node](https://github.com/garlicoin-project/garlicore-node) using the [Insight API](https://github.com/garlicoin-project/insight-grlc-api).
+A Garlicoin blockchain explorer web application service for [garlicore Node](https://github.com/garlicoin-project/garlicore-node) using the [Insight API](https://github.com/garlicoin-project/insight-grlc-api).
 
 ## Quick Start
 
