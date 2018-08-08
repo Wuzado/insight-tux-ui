@@ -1,8 +1,8 @@
 {
-  "name": "insight-grlc-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the garlicoin network and build your own services with it.",
+  "name": "insight-tux-ui",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Tuxcoin network and build your own services with it.",
   "version": "0.4.19",
-  "repository": "git://github.com/garlicoin-project/insight-grlc-ui.git",
+  "repository": "git://github.com/Wuzado/insight-tux-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,19 +26,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-ui/issues"
+    "url": "https://github.com/Wuzado/insight-tux-ui/issues"
   },
-  "homepage": "https://github.com/garlicoin-project/insight-grlc-ui",
+  "homepage": "https://github.com/Wuzado/insight-tux-ui",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "garlicoin",
-    "garlicore",
+    "tuxcoin",
+    "tuxcore",
     "front-end"
   ],
-  "bitcoreNode": "garlicore-node",
+  "bitcoreNode": "tuxcore-node",
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",

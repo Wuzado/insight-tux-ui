@@ -1,25 +1,25 @@
 # Insight UI
 
-A Garlicoin blockchain explorer web application service for [garlicore Node](https://github.com/garlicoin-project/garlicore-node) using the [Insight API](https://github.com/garlicoin-project/insight-grlc-api).
+A Tuxcoin blockchain explorer web application service for [Tuxcore Node](https://github.com/Wuzado/tuxcore-node) using the [Insight API](https://github.com/Wuzado/insight-tux-api).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [garlicore](https://github.com/garlicoin-project/garlicore).
+Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [tuxcore](https://github.com/litecoin-project/litecore).
 
 ## Getting Started
 
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-npm install -g garlicore-node
-garlicore-node create mynode
+npm install -g tuxcore-node
+tuxcore-node create mynode
 cd mynode
-garlicore-node install insight-grlc-api
-garlicore-node install insight-grlc-ui
-garlicore-node start
+tuxcore-node install insight-tux-api
+tuxcore-node install insight-tux-ui
+tuxcore-node start
 ```
 
-Open a web browser to `http://localhost:3001/insight/`
+Open a web browser to `http://localhost:3001/insight/ `
 
 ## Development
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/garlicoin-project/insight-lite-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/garlicoin-project/insight-lite-api).
+For more details about the [Insight API](https://github.com/Wuzado/insight-tux-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/garlicoin-project/insight-lite-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/garlicoin-project/insight-lite-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/Wuzado/insight-tux-ui).
 
 
 ## License
