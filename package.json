@@ -1,7 +1,7 @@
 {
   "name": "insight-tux-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Tuxcoin network and build your own services with it.",
-  "version": "0.4.19",
+  "version": "0.4.20",
   "repository": "git://github.com/Wuzado/insight-tux-ui.git",
   "contributors": [
     {
